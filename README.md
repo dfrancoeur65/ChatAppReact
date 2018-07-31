@@ -2,6 +2,8 @@
 
 Made changes to original simple chat app by making the state data structure a little more complex (array of strings => array of objects)
 
+Look inside /src/complete/App-5.js and compare it with /src/App.js
+
 
 
 1. Ensure you have `npm` installed.
