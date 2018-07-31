@@ -1,4 +1,8 @@
-### Running the app
+### Running the dual chat app
+
+Made changes to original app by making the state data structure a little more complex (array of strings => array of objects)
+
+
 
 1. Ensure you have `npm` installed.
 
