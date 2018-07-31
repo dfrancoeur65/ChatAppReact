@@ -1,6 +1,6 @@
 ### Running the dual chat app
 
-Made changes to original app by making the state data structure a little more complex (array of strings => array of objects)
+Made changes to original simple chat app by making the state data structure a little more complex (array of strings => array of objects)
 
 
 
